@@ -38,15 +38,18 @@ namespace Solution
                         Count++;
                     }
                 }
-
+                // add to list 
                 result.Add(Tuple.Create(input[i], Count));
                 Count = 0;
             }
+            
+            // remove doubles from list
             result = result.Distinct().ToList();
 
             return result;
         }
 
+        // main
         static public void Main(String[] args)
         {
             List<Tuple<char, int>> a = OrderedCount("abracadabra");
