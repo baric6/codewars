@@ -1,0 +1,15 @@
+C:\Users\baric\source\repos\Ordered_Count_of_Characters\Ordered_Count_of_Characters\bin\Debug\net6.0\Ordered_Count_of_Characters.exe
+C:\Users\baric\source\repos\Ordered_Count_of_Characters\Ordered_Count_of_Characters\bin\Debug\net6.0\Ordered_Count_of_Characters.deps.json
+C:\Users\baric\source\repos\Ordered_Count_of_Characters\Ordered_Count_of_Characters\bin\Debug\net6.0\Ordered_Count_of_Characters.runtimeconfig.json
+C:\Users\baric\source\repos\Ordered_Count_of_Characters\Ordered_Count_of_Characters\bin\Debug\net6.0\Ordered_Count_of_Characters.dll
+C:\Users\baric\source\repos\Ordered_Count_of_Characters\Ordered_Count_of_Characters\bin\Debug\net6.0\Ordered_Count_of_Characters.pdb
+C:\Users\baric\source\repos\Ordered_Count_of_Characters\Ordered_Count_of_Characters\obj\Debug\net6.0\Ordered_Count_of_Characters.csproj.AssemblyReference.cache
+C:\Users\baric\source\repos\Ordered_Count_of_Characters\Ordered_Count_of_Characters\obj\Debug\net6.0\Ordered_Count_of_Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baric\source\repos\Ordered_Count_of_Characters\Ordered_Count_of_Characters\obj\Debug\net6.0\Ordered_Count_of_Characters.AssemblyInfoInputs.cache
+C:\Users\baric\source\repos\Ordered_Count_of_Characters\Ordered_Count_of_Characters\obj\Debug\net6.0\Ordered_Count_of_Characters.AssemblyInfo.cs
+C:\Users\baric\source\repos\Ordered_Count_of_Characters\Ordered_Count_of_Characters\obj\Debug\net6.0\Ordered_Count_of_Characters.csproj.CoreCompileInputs.cache
+C:\Users\baric\source\repos\Ordered_Count_of_Characters\Ordered_Count_of_Characters\obj\Debug\net6.0\Ordered_Count_of_Characters.dll
+C:\Users\baric\source\repos\Ordered_Count_of_Characters\Ordered_Count_of_Characters\obj\Debug\net6.0\refint\Ordered_Count_of_Characters.dll
+C:\Users\baric\source\repos\Ordered_Count_of_Characters\Ordered_Count_of_Characters\obj\Debug\net6.0\Ordered_Count_of_Characters.pdb
+C:\Users\baric\source\repos\Ordered_Count_of_Characters\Ordered_Count_of_Characters\obj\Debug\net6.0\Ordered_Count_of_Characters.genruntimeconfig.cache
+C:\Users\baric\source\repos\Ordered_Count_of_Characters\Ordered_Count_of_Characters\obj\Debug\net6.0\ref\Ordered_Count_of_Characters.dll
